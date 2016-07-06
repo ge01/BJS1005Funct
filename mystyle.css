@@ -5,3 +5,10 @@
 #demo1 {
   color: green;
 }
+
+#demo2 {
+  background-color: yellow;
+  color: purple;
+  border-style: dotted;
+
+}
